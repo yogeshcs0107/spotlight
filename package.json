@@ -1,0 +1,20 @@
+{
+  "name": "spotlight",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogeshcs0107/spotlight.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yogeshcs0107/spotlight/issues"
+  },
+  "homepage": "https://github.com/yogeshcs0107/spotlight#readme"
+}
